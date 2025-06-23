@@ -17,7 +17,6 @@ export default function About() {
           <li>✅ Supabase</li>
           <li>✅ TypeScript</li>
           <li>✅ EmailJS</li>
-          <li>✅ React Router</li>
           <li>✅ Git & GitHub</li>
           <li>✅ Diseño responsive</li>
         </ul>

@@ -1,4 +1,3 @@
-import { Link } from 'react-router-dom';
 import { FaGithub, FaLinkedin } from 'react-icons/fa';
 import Avatar from '../components/ui/avatar';
 
@@ -29,11 +28,11 @@ export default function Home() {
         </a>
       </div>
       <div className="mt-6">
-        <Link to="/contact">
+        <a href="#contact">
           <button className="text-lg px-6 py-2 rounded-xl bg-blue-600 dark:bg-blue-400 text-white hover:opacity-90 transition">
             Contáctame
           </button>
-        </Link>
+        </a>
       </div>
     </section>
   );
